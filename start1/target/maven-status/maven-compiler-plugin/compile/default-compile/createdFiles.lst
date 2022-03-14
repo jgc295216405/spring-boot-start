@@ -1,0 +1,6 @@
+com\test\HelloWorldTemplate.class
+com\test\Service2.class
+com\test\BeanService.class
+com\test\HelloWorldAutoConfiguration.class
+META-INF\spring-configuration-metadata.json
+com\test\HelloWorldProperties.class

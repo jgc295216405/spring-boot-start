@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "helloworld",
+      "type": "com.test.HelloWorldProperties",
+      "sourceType": "com.test.HelloWorldProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "helloworld.username",
+      "type": "java.lang.String",
+      "description": "姓名，表示谁将会说这句话",
+      "sourceType": "com.test.HelloWorldProperties"
+    }
+  ],
+  "hints": []
+}
